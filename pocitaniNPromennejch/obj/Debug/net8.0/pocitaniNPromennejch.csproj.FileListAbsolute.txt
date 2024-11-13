@@ -12,3 +12,4 @@
 /home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.pdb
 /home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.genruntimeconfig.cache
 /home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/ref/pocitaniNPromennejch.dll
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.sourcelink.json

@@ -1,0 +1,14 @@
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/bin/Debug/net8.0/pocitaniNPromennejch
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/bin/Debug/net8.0/pocitaniNPromennejch.deps.json
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/bin/Debug/net8.0/pocitaniNPromennejch.runtimeconfig.json
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/bin/Debug/net8.0/pocitaniNPromennejch.dll
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/bin/Debug/net8.0/pocitaniNPromennejch.pdb
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.GeneratedMSBuildEditorConfig.editorconfig
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.AssemblyInfoInputs.cache
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.AssemblyInfo.cs
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.csproj.CoreCompileInputs.cache
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.dll
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/refint/pocitaniNPromennejch.dll
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.pdb
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/pocitaniNPromennejch.genruntimeconfig.cache
+/home/chcispat/school/pva/pocitaniNPromennejch/pocitaniNPromennejch/obj/Debug/net8.0/ref/pocitaniNPromennejch.dll
